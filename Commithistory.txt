@@ -1,0 +1,108 @@
+*   commit 45a1e917f17c7e5fdec62c03fd9b810e7eff9d42 (HEAD -> master, origin/master)
+|\  Merge: 3041602 8c1e63f
+| | Author: Vicky0891 <105270104+Vicky0891@users.noreply.github.com>
+| | Date:   Tue May 10 19:01:33 2022 +0300
+| |
+| |     Merge pull request #1 from Vicky0891/task1
+| |
+| |     Task
+| |
+| * commit 8c1e63f21ffe8fd775b658d0568dc4bb46ebb72e (origin/task1, task1)
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 18:51:58 2022 +0300
+| |
+| |     Added more text
+| |
+| * commit 2389735e35a2d113a20a53a5b03f686c5d96839e
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 18:05:51 2022 +0300
+| |
+| |     Patch files 2 and 3
+| |
+| * commit 077aed648835c6c863940ce279ed64a7edb29d18
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 17:40:56 2022 +0300
+| |
+| |     Created file1 and file2
+| |     Some text
+:...skipping...
+*   commit 45a1e917f17c7e5fdec62c03fd9b810e7eff9d42 (HEAD -> master, origin/master)
+|\  Merge: 3041602 8c1e63f
+| | Author: Vicky0891 <105270104+Vicky0891@users.noreply.github.com>
+| | Date:   Tue May 10 19:01:33 2022 +0300
+| |
+| |     Merge pull request #1 from Vicky0891/task1
+| |
+| |     Task
+| |
+| * commit 8c1e63f21ffe8fd775b658d0568dc4bb46ebb72e (origin/task1, task1)
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 18:51:58 2022 +0300
+| |
+| |     Added more text
+| |
+| * commit 2389735e35a2d113a20a53a5b03f686c5d96839e
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 18:05:51 2022 +0300
+| |
+| |     Patch files 2 and 3
+| |
+| * commit 077aed648835c6c863940ce279ed64a7edb29d18
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 17:40:56 2022 +0300
+| |
+| |     Created file1 and file2
+| |     Some text
+| |
+| * commit f6c9b335c38120b78d74613fbd8fe5e15564d892
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 17:39:11 2022 +0300
+| |
+| |     Created file1
+:...skipping...
+*   commit 45a1e917f17c7e5fdec62c03fd9b810e7eff9d42 (HEAD -> master, origin/master)
+*   commit 45a1e917f17c7e5fdec62c03fd9b810e7eff9d42 (HEAD -> master, origin/master)
+|\  Merge: 3041602 8c1e63f
+| | Author: Vicky0891 <105270104+Vicky0891@users.noreply.github.com>
+| | Date:   Tue May 10 19:01:33 2022 +0300
+| |
+| |     Merge pull request #1 from Vicky0891/task1
+| |
+| |     Task
+| |
+| * commit 8c1e63f21ffe8fd775b658d0568dc4bb46ebb72e (origin/task1, task1)
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 18:51:58 2022 +0300
+| |
+| |     Added more text
+| |
+| * commit 2389735e35a2d113a20a53a5b03f686c5d96839e
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 18:05:51 2022 +0300
+| |
+| |     Patch files 2 and 3
+| |
+| * commit 077aed648835c6c863940ce279ed64a7edb29d18
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 17:40:56 2022 +0300
+| |
+| |     Created file1 and file2
+| |     Some text
+| |
+| * commit f6c9b335c38120b78d74613fbd8fe5e15564d892
+| | Author: Viktoria Zhuk <niki_08_91@mail.ru>
+| | Date:   Tue May 10 17:39:11 2022 +0300
+| |
+| |     Created file1
+| |
+* | commit 3041602d9bc8ad66e5db9204cb4c1b9eb24ef7d8
+|/  Author: Viktoria Zhuk <niki_08_91@mail.ru>
+|   Date:   Tue May 10 18:23:23 2022 +0300
+|
+|       Add readme file
+|
+* commit cf347c2406fdc67fbe687542522347cc6b5a339c
+  Author: Viktoria Zhuk <niki_08_91@mail.ru>
+  Date:   Tue May 10 17:36:54 2022 +0300
+
+      First commit
